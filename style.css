@@ -1,0 +1,15 @@
+.heading {
+  color: teal;
+  font-weight: bold;
+}
+
+.main {
+display: flex;
+flex-wrap: wrap;
+}
+
+.content {
+  color: orange;
+  width: 250px;
+  height:250px;
+}
